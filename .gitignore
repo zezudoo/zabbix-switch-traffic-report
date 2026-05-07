@@ -1,0 +1,14 @@
+# Local configuration
+.env
+
+# Generated reports
+*.csv
+*.xlsx
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
